@@ -1,2 +1,2 @@
 # Yihuiz.github.io
-This repository include my papers that currently are unavialable online.
+This repository is website for me and my projects.
